@@ -1,0 +1,11 @@
+[
+{
+  "modid": "com.kanomiya.mcmod.bomber",
+  "name": "Bomber",
+  "description": "For Bombers",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/kanomiya/Bomber",
+  "authorList": ["Kanomiya"]
+}
+]
